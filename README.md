@@ -1,5 +1,4 @@
-Sistema de Trazabilidad de Equipos en Reparación
-🏢 Proyecto Simulado para Laboratorio de Metrología Colmetro SAS
+*Software para sistema de Trazabilidad*
 
 Este proyecto simula un sistema web para registrar, rastrear y controlar el ingreso, reparación y entrega de equipos como básculas y balanzas, mejorando el control interno y la atención al cliente.
 
@@ -41,28 +40,28 @@ Google Docs:	Documentación general.
 
 🔐 Control básico de acceso simulado.
 
-🚀 Despliegue del Proyecto
+
+*Despliegue del Proyecto*
 
 Railway: backend y base de datos PostgreSQL.
 
 GitHub Pages: despliegue opcional solo del frontend.
 
-🧪 Pruebas y Evaluación
 
-🔍 Compatibilidad en navegadores con LambdaTest.
+*Pruebas y Evaluación*
 
-📉 Auditoría de rendimiento con Google Lighthouse.
+- Compatibilidad en navegadores con LambdaTest.
 
-🧪 Validación de flujos de ingreso y consulta.
+- Auditoría de rendimiento con Google Lighthouse.
+
+- Validación de flujos de ingreso y consulta.
 
 📁 Instalación Local
 # 1. Clonar el repositorio
-git clone https://github.com/usuario/trazabilidad_equipos.git
-cd trazabilidad_equipos
+git clone https://github.com/jliliana12/METRONEX.git
 
 # 2. Crear entorno virtual (opcional)
 python -m venv venv
-venv\Scripts\activate  # Windows
 
 # 3. Instalar dependencias
 pip install -r requirements.txt
@@ -78,6 +77,5 @@ Estudiante: Vicky Liliana Merchan Amezquita
 Empresa simulada: Laboratorio de Metrología Colmetro SAS
 Año: 2025
 
-📜 Licencia
-
+*Licencia*
 Este proyecto es de uso académico y no tiene fines comerciales.
